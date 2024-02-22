@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.header{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: start;
+    align-items: flex-start;
+}
+.headerTexto{
+    margin-right: 15px;
+}
+.headerImagen{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 200px;
+}
+#busqueda{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 20px;
+}
+#boton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.buscarGoogle{
+    font-family: "Roboto", sans-serif;
+    margin-right: 10px;
+}
+.tenerSuerte{
+    font-family: "Roboto", sans-serif;
+}
+.footer{
+    font-family: "Roboto", sans-serif;
+    background-color: gainsboro;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 459px;
+}
+#privacidad{
+    margin-left: 1172px;
+}
+
+a:hover{
+    color: gold
+}
+input:hover{
+    color: gold;
+}
+
+
+
